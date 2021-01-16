@@ -1,0 +1,11 @@
+c:\users\onur\documents\visual studio 2015\Projects\Araba Oyun\Araba Oyun\bin\Debug\Araba Oyun.exe.config
+c:\users\onur\documents\visual studio 2015\Projects\Araba Oyun\Araba Oyun\bin\Debug\Araba Oyun.exe
+c:\users\onur\documents\visual studio 2015\Projects\Araba Oyun\Araba Oyun\bin\Debug\Araba Oyun.pdb
+c:\users\onur\documents\visual studio 2015\Projects\Araba Oyun\Araba Oyun\obj\Debug\Araba Oyun.csprojResolveAssemblyReference.cache
+c:\users\onur\documents\visual studio 2015\Projects\Araba Oyun\Araba Oyun\obj\Debug\Araba_Oyun.Properties.Resources.resources
+c:\users\onur\documents\visual studio 2015\Projects\Araba Oyun\Araba Oyun\obj\Debug\Araba Oyun.csproj.GenerateResource.Cache
+c:\users\onur\documents\visual studio 2015\Projects\Araba Oyun\Araba Oyun\obj\Debug\Araba Oyun.exe
+c:\users\onur\documents\visual studio 2015\Projects\Araba Oyun\Araba Oyun\obj\Debug\Araba Oyun.pdb
+C:\Users\Onur\documents\visual studio 2015\Projects\Araba Oyun\Araba Oyun\obj\Debug\Araba_Oyun.Araba_Oyun.resources
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Araba Oyun\Araba Oyun\obj\Debug\Araba Oyun.csprojAssemblyReference.cache
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Araba Oyun\Araba Oyun\obj\Debug\Araba Oyun.csproj.CoreCompileInputs.cache
